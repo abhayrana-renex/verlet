@@ -5,6 +5,13 @@ An advanced **real-time particle physics simulation** built in **C using OpenGL*
 This project visualizes thousands of particles moving under realistic forces and constraints — all in real time!
 
 ---
+## 🎮 Simulation Controls
+
+  V - Add colorful particles to the simulation
+  G - Apply upward force (watch the colors change as particles speed up!)
+  Arrow Keys - Move the blue container
+  W/S - Zoom camera
+  ESC - Exit
 
 ## 🔬 Technical Highlights
 
