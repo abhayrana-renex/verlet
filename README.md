@@ -6,7 +6,7 @@ This project visualizes thousands of particles moving under realistic forces and
 
 ## 🎬 Demo Video
 
-https://github.com/abhayrana-renex/verlet/blob/main/480.mov
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://youtu.be/<VIDEO_ID>)
 
 ---
 
