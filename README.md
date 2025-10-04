@@ -7,11 +7,11 @@ This project visualizes thousands of particles moving under realistic forces and
 ---
 ## 🎮 Simulation Controls
 
-  V - Add colorful particles to the simulation
-  G - Apply upward force (watch the colors change as particles speed up!)
-  Arrow Keys - Move the blue container
-  W/S - Zoom camera
-  ESC - Exit
+  V - Add colorful particles to the simulation.
+  G - Apply upward force (watch the colors change as particles speed up!
+  Arrow Keys - Move the blue container.
+  W/S - Zoom camera.
+  ESC - Exit.
 
 ## 🔬 Technical Highlights
 
